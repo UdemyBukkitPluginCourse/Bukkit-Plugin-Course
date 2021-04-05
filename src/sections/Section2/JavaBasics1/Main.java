@@ -1,15 +1,20 @@
 /*
- * The following code is provided "as-is" without any expresses warranties or guarentees
- * of any kind. It is strictly for educational purposes only and it may not be redistributed
- * without the express permission of the author (Stephen King).
+ * Copyright (c) 2021. This code is the property of Stephen King of the Udemy Bukkit Plugin Course.
+ * Unauthorized redistribution of this code outside of an educational context is prohibted.  The following code
+ * is provided "as-is" without any expresses warranties or guarentees of any kind.
+ *
+ * Use and viewing of this code is only granted to paying members of the Udemy Bukkit Plugin Course
+ * Link -> https://www.udemy.com/course/develop-minecraft-plugins-java-programming/
+ * Discord -> https://discord.gg/hZSzvzY
  */
+
 package src.sections.Section2.JavaBasics1;
 
 public class Main {
 
-	/**
-	 * The following code is more or less written as Stephen showed it in the video.
-	 * Some parts that were too similar to each other were ommited.
+	/** Writer's note
+	 * Stephen frequently deletes and overrites code in the lectures explaining certain topics,
+	 * code may differ but is still functional as it is explained in the lecture.
 	 */
 	public static void main(String[] args) {
 
